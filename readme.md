@@ -2,9 +2,9 @@
 Learn-React-Native-with-expo
 
 - # 这是一个基于expo的react-native应用开发学习Demo
-  | 1                           |   2   |    3 |
-  | :-------------------------- | :---: | ---: |
-  | ![截屏](./assets/shot1.jpg) |       |      |
+  | 1                                |   2   |    3 |
+  | :------------------------------- | :---: | ---: |
+  | ![截屏](./assets/shot1small.jpg) |       |      |
 
 - # 食用说明
   - expo官方文档
